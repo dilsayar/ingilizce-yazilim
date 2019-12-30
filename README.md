@@ -8,7 +8,7 @@ Yazılım için İngilizce serisi yazılım ve programlama dünyasına ilgi duya
 - [Yazılım için İngilizce](#yaz%C4%B1l%C4%B1m-i%C3%A7in-i%CC%87ngilizce)
   * [Hakkında](#hakkında)
   * [Dersler](#dersler)
-      + [Yazılım için İngilizce](https://www.youtube.com/watch?v=X4llR_glNDw)
+      + [Yazılım için İngilizce](https://www.youtube.com/watch?v=X4llR_glNDw&list=PLi35DK8T_m03s9wX8YiW2T-SPq8Axj9SE&index=1)
       + [Sıfırdan İngilizce Öğrenmek](https://huseyindemirtas.net/ingilizce-ogrenmeye-nereden-baslamak-gerekir/)
   * [Bağlantılar](#bağlantılar)
 
